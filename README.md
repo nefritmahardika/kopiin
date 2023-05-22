@@ -9,6 +9,7 @@
   <summary><h2 style="display: inline-block">Daftar Isi</h2></summary>
   <ol>
     <li><a href="#anggota-tim">Anggota Tim</a></li>
+    <li><a href="#Kopi.in">Kopi.in</a></li>
     <li><a href="#latar-belakang">Latar Belakang</a></li>
     <li><a href="#tujuan-dan-manfaat">Tujuan dan Manfaat</a></li>
     <li><a href="#penjelasan-aplikasi">Penjelasan Aplikasi</a></li>
@@ -26,43 +27,23 @@
 | 140810220016  | Rafa        |
 | 140810220082  | Jaya        |
 
+## Kopi.in
+
+Kopi.in adalah proyek dari Kelompok Central Unit.Ke-Pemrogram-an Icon yang dapat memfasilitasi para petani kopi dan pemanggang kopi lokal di Indonesia
+
+
 <!-- Latar Belakang -->
 ## Latar Belakang
 
-Program pemesanan biji kopi dapat menjadi alat yang berguna dalam manajemen pesanan bagi sebuah bisnis kopi. Latar belakang program ini adalah untuk membantu mengatur pesanan biji kopi yang diterima oleh bisnis tersebut.
+Indonesia adalah salah satu produsen kopi terbesar di dunia dengan beragam jenis kopi yang berkualitas tinggi. Meskipun begitu, banyak petani dan pemanggang kopi lokal di Indonesia menghadapi berbagai kendala dalam memasarkan dan menjual produk mereka secara efektif. Faktor-faktor seperti keterbatasan akses ke pasar, kurangnya pengetahuan tentang pemasaran dan teknologi, serta keterbatasan sumber daya, sering menjadi hambatan bagi para pelaku usaha kopi lokal.
 
-Dalam bisnis kopi, pelanggan seringkali mengirim pesanan untuk biji kopi dengan berbagai jenis dan jumlah yang berbeda. Untuk mengelola pesanan tersebut, program pemesanan biji kopi menggunakan konsep linked list, queue, dan stack.
+Untuk mengatasi tantangan ini, proyek pengembangan sebuah website penjualan kopi dapat menjadi solusi yang efektif. Website ini akan berfungsi sebagai platform yang menghubungkan petani kopi lokal dengan konsumen potensial, serta memfasilitasi pemanggang kopi lokal untuk menjual produk mereka secara online.
 
-- Linked list digunakan untuk menyimpan daftar pesanan. Setiap pesanan direpresentasikan sebagai sebuah node dalam linked list, yang berisi informasi seperti nama biji kopi dan jumlah yang dipesan. Dengan menggunakan linked list, pesanan dapat ditambahkan secara dinamis dan dapat dengan mudah ditampilkan.
-
-- Queue digunakan untuk mengimplementasikan antrian pesanan. Pesanan yang masuk pertama kali akan ditempatkan di awal antrian, dan pesanan selanjutnya akan ditambahkan di belakangnya. Pesanan diambil dari antrian sesuai dengan prinsip FIFO (First-In-First-Out).
-
-- Stack digunakan untuk mengimplementasikan tumpukan pesanan. Pesanan yang masuk pertama kali akan ditempatkan di atas tumpukan, dan pesanan selanjutnya akan ditambahkan di atasnya. Pesanan diambil dari tumpukan sesuai dengan prinsip LIFO (Last-In-First-Out).
-
-Dengan menggunakan konsep linked list, queue, dan stack, program pemesanan biji kopi dapat membantu dalam menyimpan dan mengelola pesanan biji kopi secara efisien. Hal ini memungkinkan bisnis kopi untuk dengan mudah menambahkan, menghapus, dan mengelola pesanan yang diterima dari pelanggan.
 
 <!-- Tujuan dan Manfaat -->
 ## Tujuan dan Manfaat
 
-Tujuan dan manfaat dari program pemesanan biji kopi adalah sebagai berikut:
-
-Tujuan:
-1. Meningkatkan efisiensi: Program pemesanan biji kopi membantu meningkatkan efisiensi dalam pengelolaan pesanan. Dengan menggunakan program ini, pesanan dapat ditambahkan, dihapus, dan diatur dengan mudah, mengurangi kesalahan manusia dan waktu yang dibutuhkan untuk pengelolaan manual.
-
-2. Manajemen pesanan yang lebih baik: Program ini membantu bisnis kopi dalam mengelola pesanan dengan lebih baik. Informasi tentang pesanan yang diterima dapat disimpan dan diakses dengan mudah, memungkinkan bisnis untuk melacak pesanan, menghitung stok biji kopi yang dibutuhkan, dan mempersiapkan pesanan dengan lebih efisien.
-
-3. Meningkatkan pengalaman pelanggan: Dengan menggunakan program pemesanan biji kopi, bisnis dapat memberikan pengalaman pelanggan yang lebih baik. Pesanan dapat diproses dengan cepat dan akurat, memastikan bahwa pelanggan menerima biji kopi yang diinginkan sesuai dengan jumlah yang diinginkan. Hal ini dapat meningkatkan kepuasan pelanggan dan memperkuat hubungan dengan mereka.
-
-Manfaat:
-1. Pengelolaan pesanan yang efisien: Program pemesanan biji kopi memungkinkan bisnis untuk mengelola pesanan dengan cara yang lebih teratur dan efisien. Pesanan dapat dikelola dalam antrian atau tumpukan, memastikan bahwa pesanan diproses sesuai dengan urutan penerimaan dan metode pengiriman yang diinginkan.
-
-2. Peningkatan akurasi: Dengan menggunakan program ini, risiko kesalahan manusia dalam pengelolaan pesanan dapat dikurangi. Data pesanan dapat dimasukkan dengan tepat dan sistem akan memastikan bahwa pesanan diproses sesuai dengan informasi yang telah diinput. Hal ini membantu meningkatkan akurasi dan mengurangi peluang kesalahan pengiriman atau pengelolaan pesanan.
-
-3. Peningkatan efektivitas inventaris: Program pemesanan biji kopi dapat membantu bisnis untuk mengelola stok biji kopi dengan lebih baik. Dengan melacak pesanan yang masuk, bisnis dapat menghitung persediaan yang diperlukan dan melakukan pembelian biji kopi dengan tepat waktu. Hal ini membantu menghindari kekurangan atau kelebihan persediaan biji kopi, yang dapat mengurangi biaya dan meningkatkan efisiensi operasional.
-
-4. Peningkatan pengambilan keputusan: Program ini menyediakan data tentang pesanan yang diterima, jumlah biji kopi yang dipesan, preferensi pelanggan, dan informasi lainnya. Data ini dapat digunakan untuk menganalisis tren, memahami preferensi pelanggan, dan membuat keputusan yang lebih baik dalam hal peningkatan produk, pengelolaan persediaan, dan strategi pemasaran.
-
-Secara keseluruhan, program pemesanan biji kopi membantu bisnis kopi dalam meningkatkan efisiensi operasional, mengoptimalkan pengelolaan pesanan, meningkatkan akurasi, dan memberikan pengalaman pelanggan yang lebih baik.
+Tujuan pengembangan website penjualan kopi untuk memfasilitasi petani kopi lokal Indonesia adalah untuk meningkatkan akses dan eksposur pasar bagi petani kopi serta mendukung pertumbuhan industri kopi lokal. Ditambah lagi Indonesia memiliki nilai ekspor yang tinggi di dunia, menembus angka Rp 16,44 Triliun
 
 <!-- Penjelasan Aplikasi -->
 ## Penjelasan Aplikasi
@@ -87,12 +68,12 @@ Keuntungan menggunakan aplikasi program pemesanan biji kopi termasuk meningkatka
 <!-- Gambar Rancangan Antarmuka -->
 ## Gambar Rancangan Antarmuka
 
-![image](https://github.com/praktikum-tiunpad-angkatan-2022/proyek-strukdat-c-u-k-i/assets/112997095/7f630cf0-da85-40e4-bf3b-aafb85fb2a6c)
+![image](https://github.com/nefritmahardika/kopiin/blob/main/image.png?raw=true)
 
 <!-- Rencana Pengerjaan Proyek -->
 ## Rencana Pengerjaan Proyek
 
-Berikut adalah rencana pengerjaan proyek untuk membuat program pemesanan biji kopi menggunakan linked list, queue, dan stack di C++:
+Berikut adalah rencana pengerjaan proyek untuk membuat program pemesanan biji kopi :
 
 1. Analisis Persyaratan:
    - Identifikasi kebutuhan fungsional program, seperti kemampuan menambahkan pesanan, menghapus pesanan, dan menampilkan daftar pesanan.
