@@ -73,44 +73,42 @@ Keuntungan menggunakan aplikasi program pemesanan biji kopi termasuk meningkatka
 <!-- Rencana Pengerjaan Proyek -->
 ## Rencana Pengerjaan Proyek
 
-Berikut adalah rencana pengerjaan proyek untuk membuat program pemesanan biji kopi :
+Berikut adalah rencana pembuatan proyek website penjualan kopi bernama "Kopi.in":
 
-1. Analisis Persyaratan:
-   - Identifikasi kebutuhan fungsional program, seperti kemampuan menambahkan pesanan, menghapus pesanan, dan menampilkan daftar pesanan.
-   - Identifikasi kebutuhan non-fungsional, seperti keamanan data, kinerja, dan kegunaan antarmuka pengguna.
-   - Buat daftar lengkap persyaratan proyek.
+1. Analisis Kebutuhan:
+   - Identifikasi target audiens: Siapa yang akan menjadi pelanggan utama Anda? Apakah itu pecinta kopi, pemilik kafe, atau konsumen umum?
+   - Tentukan fitur yang diperlukan: Daftar produk, keranjang belanja, sistem pembayaran, ulasan pelanggan, halaman profil pengguna, dll.
+   - Pertimbangkan desain visual dan tata letak yang menarik.
 
-2. Perancangan Sistem:
-   - Desain antarmuka pengguna yang intuitif dan responsif.
-   - Buat struktur data yang diperlukan, termasuk linked list, queue, dan stack untuk menyimpan pesanan.
-   - Identifikasi dan desain algoritma yang sesuai untuk operasi seperti menambahkan, menghapus, dan menampilkan pesanan.
+2. Perencanaan:
+   - Buat alur kerja proyek: Tentukan tugas-tugas yang harus diselesaikan, tenggat waktu, dan tanggung jawab tim.
+   - Buat sketsa tampilan halaman: Buat sketsa kasar tentang tata letak dan desain halaman utama, halaman produk, keranjang belanja, dll.
 
-3. Implementasi:
-   - Buat proyek C++ baru.
-   - Implementasikan struktur data dan algoritma yang telah dirancang.
-   - Buat kelas-kelas seperti OrderList, OrderQueue, dan OrderStack, serta implementasikan fungsi-fungsi yang sesuai.
+3. Desain:
+   - Buat desain visual: Buat desain visual yang menarik dan konsisten dengan merek "Kopi.in". Pertimbangkan penggunaan warna, font, dan elemen grafis yang sesuai.
+   - Desain responsif: Pastikan desain dapat beradaptasi dengan baik pada berbagai perangkat, seperti desktop, tablet, dan ponsel.
 
-4. Pengujian:
-   - Buat rangkaian kasus uji yang mencakup skenario berbeda, termasuk menambahkan pesanan, menghapus pesanan, dan melihat daftar pesanan.
-   - Jalankan kasus uji dan verifikasi bahwa program berperilaku sesuai dengan yang diharapkan.
-   - Perbaiki bug dan masalah yang ditemukan selama pengujian.
+4. Pengembangan:
+   - Pilih platform atau framework: Menggunakan HTML, CSS, PHP, SQL, dan JavaScript.
+   - Buat halaman-halaman dasar: Buat halaman utama, halaman produk, keranjang belanja, halaman checkout, dll.
+   - Implementasikan fitur-fitur yang diperlukan: Buat sistem pencarian produk, sistem pembayaran yang aman, pengiriman produk, dll.
+   - Integrasi media sosial: Tambahkan ikon media sosial dan integrasikan dengan akun media sosial Anda untuk memperluas jangkauan dan memperkuat merek.
 
-5. Optimisasi dan Peningkatan:
-   - Evaluasi kinerja program dan identifikasi area yang dapat ditingkatkan.
-   - Perbaiki masalah kinerja seperti kompleksitas operasional yang tidak efisien atau penyimpanan data yang tidak optimal.
-   - Tinjau kembali kode sumber dan lakukan refaktorisasi jika diperlukan untuk meningkatkan kejelasan dan pemeliharaan kode.
+5. Pengujian:
+   - Periksa keberfungsian: Pastikan semua fitur berfungsi dengan baik dan tidak ada bug yang signifikan.
+   - Uji responsif: Uji website pada berbagai perangkat dan periksa apakah tampilan dan fungsionalitasnya tetap baik.
+   - Uji kompatibilitas browser: Pastikan website dapat diakses dengan baik di berbagai browser populer.
 
-6. Dokumentasi:
-   - Buat dokumentasi yang menjelaskan tujuan program, persyaratan, desain sistem, dan instruksi pengguna.
-   - Dokumentasikan struktur data, algoritma, dan kelas-kelas yang digunakan dalam program.
-   - Berikan petunjuk penggunaan dan contoh penggunaan program.
+6. Peluncuran:
+   - Pilih hosting yang sesuai: Pilih penyedia hosting yang andal dan sesuai dengan kebutuhan proyek Anda.
+   - Periksa kembali semua halaman: Pastikan semua konten, tautan, dan fitur berfungsi dengan baik sebelum diluncurkan.
+   - Perkenalkan website ke publik: Lakukan promosi melalui media sosial, email, atau metode pemasaran lainnya.
 
-7. Penyelesaian dan Penyerahan:
-   - Lakukan pengujian akhir untuk memastikan bahwa program berfungsi dengan baik dan memenuhi persyaratan proyek.
-   - Siapkan paket pengiriman proyek yang mencakup semua file sumber, dokumentasi, dan instruksi instalasi jika diperlukan.
-   - Serahkan proyek sesuai dengan persyaratan dan tenggat waktu yang ditentukan.
+7. Pemeliharaan:
+   - Perbarui konten secara teratur: Tambahkan produk baru, ulasan pelanggan, dan artikel terkait kopi secara berkala.
+   - Pantau performa website: Gunakan alat analisis web untuk melacak lalu lintas, konversi, dan perilaku pengunjung.
+   - Tanggapi umpan balik pelanggan: Tanggapi pertanyaan, komentar, dan ulasan pelanggan dengan cepat dan
 
-Pastikan untuk mengikuti siklus pengembangan perangkat lunak yang baik, termasuk perencanaan, analisis, desain, implementasi, pengujian, dan dokumentasi. Juga, ingatlah untuk selalu memperhatikan prinsip-prinsip pengembangan perangkat lunak yang baik, seperti modularitas, kejelasan kode, dan pengelolaan kesalahan.
 <!-- Lisensi -->
 ## Lisensi
 
