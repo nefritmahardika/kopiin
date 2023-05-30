@@ -1,1 +1,22 @@
+cara untuk register akun :
+1. klik tombol register pada landing page
+2. isi data yang dibutuhkan berupa username, email, password, dan isi ulang password
+4. klik daftar
 
+cara untuk login akun :
+1. klik tombol login pada landing page
+2. masukkan data yang dibutuhkan berupa username dan password yang telah didaftarkan
+3. klik login
+
+cara membeli barang :
+1. setelah melakukan login, pilih biji kopi yang ingin dibeli
+2. isi jumlah biji kopi yang ingin dibeli
+3. setelah selesai, tekan tombol add to cart
+4. lalu apabila sudah selesai, tekan tombol proceed to checkout
+5. isi data data yang diperlukan untuk pengiriman
+6. lakukan pembayaran dan barang siap dikirim
+
+cara akses sebagai admin :
+1. masuk ke localhost/kopiin/admin/admin_login.php
+2. login sebagai main admin atau buat akun baru jika ingin daftar sebagai admin baru
+3. jika sudah, admin akan bisa mengakses tampilan web berupa produk barang, harga barang, user, dsb.
