@@ -114,4 +114,4 @@ Pastikan untuk mengikuti siklus pengembangan perangkat lunak yang baik, termasuk
 <!-- Lisensi -->
 ## Lisensi
 
-MIT License 2022
+MIT License 2023
